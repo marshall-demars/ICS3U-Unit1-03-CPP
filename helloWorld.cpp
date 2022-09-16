@@ -7,6 +7,7 @@
 #include <iostream>
 
 int main() {
+    // this function prints in the terminal
     std::cout << "Hello, World!\n";
 
     std::cout << "\nDone.";
